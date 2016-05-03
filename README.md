@@ -23,3 +23,5 @@ adb shell rm /sdcard/ellowoyld.mp4
 --bit-rate: Set the video bit rate. The default is 4Mbps. Be careful here, the documentation is wrong! It’s in bps NOT Mbps. So if you want to manually set the bit-rate to the default you would enter "4000000". I find 2Mbps acceptable at 360x640 resolution. 1Mbps is still better quality than most of the screencasts I’ve seen in bug reports.
 
 --time-limit: The length of video to record in seconds. The default, and maximum, is 3 minutes. So the above script will record 30 seconds of video.
+
+https://www.utest.com/courses/android-debug-bridge-part-4-install-apk-files-and-connect-over-wifi
